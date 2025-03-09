@@ -1,1 +1,1 @@
-display the current date and time
+Display the current date and time
